@@ -2070,15 +2070,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-03 19:37:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2024-12-03 19:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-03 19:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-03 19:37:15 +0000"
     },
     "done": true
   },
@@ -2106,21 +2112,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_golden_boots": "2024-12-03 19:25:25 +0000"
+      "has_stone_bricks": "2024-12-03 19:37:15 +0000"
     },
     "done": true
   },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2024-12-03 19:38:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-03 19:37:15 +0000"
     },
     "done": true
   },
