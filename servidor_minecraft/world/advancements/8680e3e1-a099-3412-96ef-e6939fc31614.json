@@ -879,6 +879,7 @@
       "minecraft:spider": "2024-12-03 03:14:10 +0000",
       "minecraft:zombie": "2024-12-03 03:14:11 +0000",
       "minecraft:creeper": "2024-12-03 03:38:15 +0000",
+      "minecraft:drowned": "2024-12-03 23:28:21 +0000",
       "minecraft:zombie_villager": "2024-12-03 03:14:55 +0000"
     },
     "done": false
@@ -2894,6 +2895,36 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-03 23:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-03 23:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-03 23:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-03 23:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-03 23:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-03 23:26:02 +0000"
     },
     "done": true
   },
