@@ -2316,5 +2316,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-03 21:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-03 21:39:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
