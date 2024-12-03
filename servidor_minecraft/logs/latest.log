@@ -66,3 +66,11 @@
 [17:55:19] [Server thread/INFO]: Marcosam3000 has made the advancement [Sneak 100]
 [17:56:34] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
 [17:56:34] [Server thread/INFO]: Marcosam3000 left the game
+[18:02:35] [Server thread/INFO]: Marcosam3000[/127.171.64.120:48803] logged in with entity id 29358 at (926.3000000119209, -16.0, 564.6999999880791)
+[18:02:35] [Server thread/INFO]: Marcosam3000 joined the game
+[18:04:56] [Server thread/INFO]: Micropene lost connection: Disconnected
+[18:04:56] [Server thread/INFO]: Micropene left the game
+[18:06:03] [Server thread/INFO]: Marcosam3000 has completed the challenge [It Spreads]
+[18:06:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=925, y=-25, z=522} jh{x=923, y=-26, z=522}
+[18:13:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=858, y=-34, z=483} jh{x=854, y=-37, z=482}
+[18:24:13] [Server thread/INFO]: Marcosam3000 has made the advancement [Enchanter]
