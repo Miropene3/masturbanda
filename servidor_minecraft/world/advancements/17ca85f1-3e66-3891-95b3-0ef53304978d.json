@@ -11,6 +11,7 @@
       "minecraft:frozen_ocean": "2024-12-03 19:22:21 +0000",
       "minecraft:frozen_river": "2024-12-03 19:05:32 +0000",
       "minecraft:forest": "2024-12-03 21:10:10 +0000",
+      "minecraft:cherry_grove": "2024-12-03 21:16:59 +0000",
       "minecraft:river": "2024-12-03 21:10:04 +0000",
       "minecraft:snowy_plains": "2024-12-03 03:17:13 +0000",
       "minecraft:dripstone_caves": "2024-12-03 03:21:28 +0000",
@@ -1242,6 +1243,7 @@
     "criteria": {
       "golden_apple": "2024-12-03 20:28:10 +0000",
       "bread": "2024-12-03 20:01:01 +0000",
+      "cooked_rabbit": "2024-12-03 21:12:44 +0000",
       "cooked_chicken": "2024-12-03 20:10:16 +0000",
       "rotten_flesh": "2024-12-03 19:53:34 +0000",
       "cooked_mutton": "2024-12-03 19:19:55 +0000",
@@ -1933,9 +1935,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-03 21:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-03 21:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-03 21:16:20 +0000"
     },
     "done": true
   },
@@ -1981,6 +1995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-03 21:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-03 20:52:44 +0000"
@@ -1996,6 +2016,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-03 21:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-03 21:16:20 +0000"
     },
     "done": true
   },
