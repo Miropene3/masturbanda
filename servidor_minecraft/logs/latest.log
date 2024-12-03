@@ -1,45 +1,38 @@
-[04:46:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:46:22] [ServerMain/INFO]: Loaded 1337 recipes
-[04:46:22] [ServerMain/INFO]: Loaded 1448 advancements
-[04:46:22] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[04:46:22] [Server thread/INFO]: Loading properties
-[04:46:22] [Server thread/INFO]: Default game type: SURVIVAL
-[04:46:22] [Server thread/INFO]: Generating keypair
-[04:46:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:46:22] [Server thread/INFO]: Using epoll channel type
-[04:46:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:46:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:46:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:46:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:46:22] [Server thread/INFO]: Preparing level "world"
-[04:46:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:46:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:46:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:46:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:46:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:46:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:46:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:46:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:46:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:46:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:46:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:46:27] [Worker-Main-3/INFO]: Preparing spawn area: 14%
-[04:46:28] [Worker-Main-1/INFO]: Preparing spawn area: 89%
-[04:46:28] [Server thread/INFO]: Time elapsed: 5504 ms
-[04:46:28] [Server thread/INFO]: Done (5.852s)! For help, type "help"
-[04:46:50] [Server thread/INFO]: Mosqui[/127.109.151.165:50899] logged in with entity id 18 at (-340.3883636495043, 57.0, -742.3110486260127)
-[04:46:50] [Server thread/INFO]: Mosqui joined the game
-[04:46:50] [Server thread/INFO]: juanchopepito[/127.167.192.149:47817] logged in with entity id 19 at (-350.29995138776246, 57.0, -742.354941558294)
-[04:46:50] [Server thread/INFO]: juanchopepito joined the game
-[04:46:55] [Server thread/WARN]: UUID of added entity already exists: cnk['Strider'/154, l='ServerLevel[world]', x=-205.80, y=31.50, z=-929.50]
-[04:46:55] [Server thread/WARN]: UUID of added entity already exists: cns['Zombified Piglin'/155, l='ServerLevel[world]', x=-205.80, y=32.44, z=-929.50]
-[04:59:26] [Server thread/INFO]: juanchopepito has completed the challenge [Hot Tourist Destinations]
-[04:59:29] [Server thread/INFO]: Mosqui has completed the challenge [Hot Tourist Destinations]
-[05:05:59] [Server thread/WARN]: juanchopepito moved too quickly! 0.20513010100410156,0.2712241076924897,-10.274674583657543
-[05:06:53] [Server thread/INFO]: juanchopepito has made the advancement [A Terrible Fortress]
-[05:06:56] [Server thread/INFO]: Mosqui has made the advancement [A Terrible Fortress]
-[05:07:25] [Server thread/INFO]: Mosqui has made the advancement [Into Fire]
-[05:08:10] [Server thread/INFO]: juanchopepito has made the advancement [Spooky Scary Skeleton]
-[05:08:36] [Server thread/INFO]: juanchopepito has made the advancement [Into Fire]
-[05:14:42] [Server thread/INFO]: Mosqui has made the advancement [Spooky Scary Skeleton]
-[05:16:15] [Server thread/INFO]: Mosqui has completed the challenge [Subspace Bubble]
+[15:35:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:35:59] [ServerMain/INFO]: Loaded 1337 recipes
+[15:35:59] [ServerMain/INFO]: Loaded 1448 advancements
+[15:35:59] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[15:35:59] [Server thread/INFO]: Loading properties
+[15:35:59] [Server thread/INFO]: Default game type: SURVIVAL
+[15:35:59] [Server thread/INFO]: Generating keypair
+[15:36:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:36:00] [Server thread/INFO]: Using epoll channel type
+[15:36:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:36:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:36:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:36:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:36:00] [Server thread/INFO]: Preparing level "world"
+[15:36:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:36:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:36:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:36:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:36:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:36:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:36:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:36:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:36:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:36:04] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[15:36:04] [Server thread/INFO]: Time elapsed: 4081 ms
+[15:36:04] [Server thread/INFO]: Done (4.374s)! For help, type "help"
+[15:36:06] [Server thread/INFO]: Micropene[/127.72.44.249:40695] logged in with entity id 18 at (938.1148445753427, 71.0, 669.1169519264643)
+[15:36:06] [Server thread/INFO]: Micropene joined the game
+[15:36:08] [Server thread/INFO]: Marcosam3000[/127.171.64.120:48953] logged in with entity id 116 at (940.3694911130195, 71.0, 667.1033391650371)
+[15:36:08] [Server thread/INFO]: Marcosam3000 joined the game
+[15:37:26] [Server thread/INFO]: [Not Secure] <Marcosam3000> zz
+[15:37:27] [Server thread/INFO]: [Not Secure] <Marcosam3000> z
+[15:37:27] [Server thread/INFO]: [Not Secure] <Marcosam3000> zzz
+[15:37:27] [Server thread/INFO]: [Not Secure] <Marcosam3000> z
+[15:37:28] [Server thread/INFO]: [Not Secure] <Marcosam3000> zz
+[15:37:28] [Server thread/INFO]: [Not Secure] <Marcosam3000> zzz
+[15:41:21] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
+[15:41:21] [Server thread/INFO]: Marcosam3000 left the game
