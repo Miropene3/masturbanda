@@ -403,6 +403,7 @@
       "cooked_porkchop": "2024-12-03 05:14:57 +0000",
       "bread": "2024-12-03 02:42:10 +0000",
       "rotten_flesh": "2024-12-03 03:15:38 +0000",
+      "chorus_fruit": "2024-12-03 20:50:51 +0000",
       "baked_potato": "2024-12-03 03:12:49 +0000",
       "pumpkin_pie": "2024-12-03 04:54:39 +0000"
     },
@@ -870,6 +871,7 @@
       "minecraft:piglin": "2024-12-03 04:33:19 +0000",
       "minecraft:silverfish": "2024-12-03 02:52:40 +0000",
       "minecraft:stray": "2024-12-03 03:16:28 +0000",
+      "minecraft:enderman": "2024-12-03 20:51:11 +0000",
       "minecraft:piglin_brute": "2024-12-03 04:10:07 +0000",
       "minecraft:spider": "2024-12-03 03:14:10 +0000",
       "minecraft:zombie": "2024-12-03 03:14:11 +0000",
@@ -2274,6 +2276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-03 20:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-03 20:40:09 +0000"
@@ -2322,6 +2330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-03 20:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-03 20:40:29 +0000"
@@ -2349,6 +2363,18 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-03 20:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-03 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-03 20:57:20 +0000"
     },
     "done": true
   },
@@ -2397,6 +2423,18 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-03 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-03 20:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-03 20:57:20 +0000"
     },
     "done": true
   },
