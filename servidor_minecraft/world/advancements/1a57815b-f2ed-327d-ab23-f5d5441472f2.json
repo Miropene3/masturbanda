@@ -436,17 +436,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-03 03:46:44 +0000",
+      "minecraft:blaze": "2024-12-03 05:07:24 +0000",
       "minecraft:skeleton": "2024-12-03 03:51:34 +0000",
+      "minecraft:zombified_piglin": "2024-12-03 05:10:41 +0000",
+      "minecraft:witch": "2024-12-03 03:15:18 +0000",
+      "minecraft:ghast": "2024-12-03 04:08:45 +0000",
+      "minecraft:hoglin": "2024-12-03 04:52:31 +0000",
       "minecraft:piglin": "2024-12-03 04:52:36 +0000",
       "minecraft:stray": "2024-12-03 03:52:03 +0000",
       "minecraft:magma_cube": "2024-12-03 04:20:19 +0000",
-      "minecraft:witch": "2024-12-03 03:15:18 +0000",
       "minecraft:piglin_brute": "2024-12-03 04:13:16 +0000",
       "minecraft:spider": "2024-12-03 03:51:39 +0000",
       "minecraft:zombie": "2024-12-03 02:53:06 +0000",
-      "minecraft:creeper": "2024-12-03 03:14:07 +0000",
-      "minecraft:ghast": "2024-12-03 04:08:45 +0000",
-      "minecraft:hoglin": "2024-12-03 04:52:31 +0000"
+      "minecraft:creeper": "2024-12-03 03:14:07 +0000"
     },
     "done": false
   },
@@ -1720,6 +1722,42 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-03 04:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-03 05:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-03 05:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-03 05:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-03 05:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-03 05:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-03 05:07:25 +0000"
     },
     "done": true
   },
