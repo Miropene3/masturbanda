@@ -18,6 +18,7 @@
       "minecraft:ice_spikes": "2024-12-03 03:25:42 +0000",
       "minecraft:frozen_ocean": "2024-12-03 19:22:21 +0000",
       "minecraft:frozen_river": "2024-12-03 19:05:32 +0000",
+      "minecraft:deep_dark": "2024-12-04 00:58:53 +0000",
       "minecraft:cherry_grove": "2024-12-03 21:16:59 +0000",
       "minecraft:grove": "2024-12-03 21:26:48 +0000",
       "minecraft:meadow": "2024-12-03 21:26:33 +0000",
@@ -2250,9 +2251,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-04 00:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-04 00:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-04 00:57:09 +0000"
     },
     "done": true
   },
@@ -2283,6 +2296,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-04 00:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-04 00:57:09 +0000"
     },
     "done": true
   },
