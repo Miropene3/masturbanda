@@ -2905,6 +2905,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-03 23:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-03 23:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-03 23:30:02 +0000"
@@ -2929,15 +2941,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_gray_wool": "2024-12-03 23:26:02 +0000"
+      "has_raw_copper": "2024-12-04 00:00:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_carpet": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_gray_wool": "2024-12-03 23:26:02 +0000"
+      "has_raw_copper": "2024-12-04 00:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-04 00:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-04 00:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-04 00:04:48 +0000"
     },
     "done": true
   },
