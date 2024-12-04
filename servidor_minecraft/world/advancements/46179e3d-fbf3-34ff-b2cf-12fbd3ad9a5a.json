@@ -19,9 +19,11 @@
       "minecraft:lush_caves": "2024-12-03 19:05:35 +0000",
       "minecraft:dripstone_caves": "2024-12-03 02:47:28 +0000",
       "minecraft:snowy_taiga": "2024-12-03 03:05:33 +0000",
+      "minecraft:frozen_peaks": "2024-12-04 02:44:58 +0000",
       "minecraft:frozen_river": "2024-12-03 03:04:54 +0000",
       "minecraft:deep_dark": "2024-12-03 03:23:04 +0000",
       "minecraft:ocean": "2024-12-03 19:03:25 +0000",
+      "minecraft:grove": "2024-12-04 02:45:03 +0000",
       "minecraft:meadow": "2024-12-03 02:38:04 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-03 19:00:39 +0000",
       "minecraft:plains": "2024-12-03 02:45:32 +0000"
@@ -2732,6 +2734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 02:34:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-04 01:46:22 +0000"
@@ -2741,6 +2749,12 @@
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "salmon_bucket": "2024-12-04 01:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-04 02:34:48 +0000"
     },
     "done": true
   },
@@ -2756,9 +2770,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-12-04 02:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 02:34:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-04 01:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-04 02:34:48 +0000"
     },
     "done": true
   },

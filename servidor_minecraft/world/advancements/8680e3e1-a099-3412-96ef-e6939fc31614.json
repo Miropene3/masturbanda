@@ -403,15 +403,16 @@
       "cooked_porkchop": "2024-12-03 05:14:57 +0000",
       "mutton": "2024-12-03 23:36:06 +0000",
       "bread": "2024-12-03 02:42:10 +0000",
-      "cooked_chicken": "2024-12-04 01:19:11 +0000",
       "rotten_flesh": "2024-12-03 03:15:38 +0000",
+      "suspicious_stew": "2024-12-04 02:37:41 +0000",
       "cooked_mutton": "2024-12-03 22:15:00 +0000",
-      "potato": "2024-12-04 02:24:17 +0000",
       "chorus_fruit": "2024-12-03 20:50:51 +0000",
       "cooked_beef": "2024-12-03 22:21:22 +0000",
       "baked_potato": "2024-12-03 03:12:49 +0000",
-      "pumpkin_pie": "2024-12-03 04:54:39 +0000",
-      "golden_carrot": "2024-12-04 02:21:38 +0000"
+      "golden_carrot": "2024-12-04 02:21:38 +0000",
+      "cooked_chicken": "2024-12-04 01:19:11 +0000",
+      "potato": "2024-12-04 02:24:17 +0000",
+      "pumpkin_pie": "2024-12-03 04:54:39 +0000"
     },
     "done": false
   },
@@ -3111,6 +3112,36 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2024-12-04 01:45:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-04 02:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-04 02:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-04 02:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-04 02:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2024-12-04 02:29:11 +0000"
     },
     "done": true
   },
