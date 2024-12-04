@@ -1,112 +1,26 @@
-[14:16:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:16:41] [ServerMain/INFO]: Loaded 1337 recipes
-[14:16:41] [ServerMain/INFO]: Loaded 1448 advancements
-[14:16:42] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[14:16:42] [Server thread/INFO]: Loading properties
-[14:16:42] [Server thread/INFO]: Default game type: SURVIVAL
-[14:16:42] [Server thread/INFO]: Generating keypair
-[14:16:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:16:42] [Server thread/INFO]: Using epoll channel type
-[14:16:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:16:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:16:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:16:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:16:42] [Server thread/INFO]: Preparing level "world"
-[14:16:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 30%
-[14:16:45] [Server thread/INFO]: Time elapsed: 2586 ms
-[14:16:45] [Server thread/INFO]: Done (2.830s)! For help, type "help"
-[14:17:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:18:53] [Server thread/INFO]: Marcosam3000[/127.171.64.120:57967] logged in with entity id 7 at (940.4914606193211, 72.35923560066871, 669.3669444293502)
-[14:18:53] [Server thread/INFO]: Marcosam3000 joined the game
-[14:22:10] [Server thread/INFO]: Micropene[/127.72.44.249:49753] logged in with entity id 1718 at (925.718147887104, 69.0, 703.8398193364744)
-[14:22:10] [Server thread/INFO]: Micropene joined the game
-[14:27:24] [Server thread/INFO]: Marcosam3000 lost connection: Timed out
-[14:27:24] [Server thread/INFO]: Marcosam3000 left the game
-[14:27:24] [Server thread/WARN]: handleDisconnection() called twice
-[14:35:04] [Server thread/INFO]: Marcosam3000[/127.171.64.120:45521] logged in with entity id 6613 at (-126.9634871927772, 64.47135676094425, 315.21646526299776)
-[14:35:04] [Server thread/INFO]: Marcosam3000 joined the game
-[14:35:34] [Server thread/INFO]: Marcosam3000 lost connection: Timed out
-[14:35:34] [Server thread/INFO]: Marcosam3000 left the game
-[14:35:51] [Server thread/INFO]: Marcosam3000[/127.171.64.120:36573] logged in with entity id 7009 at (-126.9634871927772, 62.0, 315.21646526299776)
-[14:35:51] [Server thread/INFO]: Marcosam3000 joined the game
-[14:48:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1010, y=78, z=699} jh{x=1012, y=77, z=696}
-[14:54:47] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
-[14:54:47] [Server thread/INFO]: Marcosam3000 left the game
-[14:54:51] [Server thread/INFO]: Marcosam3000[/127.171.64.120:39543] logged in with entity id 11260 at (1003.6311588987923, 74.0, 698.725759099902)
-[14:54:51] [Server thread/INFO]: Marcosam3000 joined the game
-[15:05:54] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
-[15:05:54] [Server thread/INFO]: Marcosam3000 left the game
-[15:05:58] [Server thread/INFO]: Marcosam3000[/127.171.64.120:55821] logged in with entity id 13410 at (992.6999999880791, 77.0, 686.8754994505194)
-[15:05:58] [Server thread/INFO]: Marcosam3000 joined the game
-[15:17:00] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
-[15:17:00] [Server thread/INFO]: Marcosam3000 left the game
-[15:17:04] [Server thread/INFO]: Marcosam3000[/127.171.64.120:39947] logged in with entity id 15800 at (955.3701366005386, 72.0, 675.4862133936928)
-[15:17:04] [Server thread/INFO]: Marcosam3000 joined the game
-[15:26:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=999, y=73, z=691} jh{x=1000, y=76, z=706}
-[15:31:59] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
-[15:31:59] [Server thread/INFO]: Marcosam3000 left the game
-[15:32:03] [Server thread/INFO]: Marcosam3000[/127.171.64.120:37289] logged in with entity id 19242 at (939.2756827477942, 71.5625, 670.2464432127128)
-[15:32:03] [Server thread/INFO]: Marcosam3000 joined the game
-[15:41:53] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
-[15:41:53] [Server thread/INFO]: Marcosam3000 left the game
-[15:53:19] [Server thread/INFO]: Micropene lost connection: Disconnected
-[15:53:19] [Server thread/INFO]: Micropene left the game
-[15:54:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[15:58:12] [Server thread/INFO]: Micropene[/127.72.44.249:55601] logged in with entity id 24027 at (915.8092754269885, 69.0, 703.551277486082)
-[15:58:12] [Server thread/INFO]: Micropene joined the game
-[16:10:53] [Server thread/INFO]: Marcosam3000[/127.171.64.120:60485] logged in with entity id 27030 at (916.9419763526624, 69.0, 703.3389400884245)
-[16:10:53] [Server thread/INFO]: Marcosam3000 joined the game
-[16:23:39] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
-[16:23:39] [Server thread/INFO]: Marcosam3000 left the game
-[16:36:26] [Server thread/INFO]: Marcosam3000[/127.171.64.120:36655] logged in with entity id 34839 at (848.0922446640146, 8.5, 1514.2066851335585)
-[16:36:26] [Server thread/INFO]: Marcosam3000 joined the game
-[16:39:02] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
-[16:39:02] [Server thread/INFO]: Marcosam3000 left the game
-[16:58:01] [Server thread/INFO]: Marcosam3000[/127.171.64.120:44973] logged in with entity id 39870 at (861.5456753936653, 14.0, 1486.5944414762878)
-[16:58:01] [Server thread/INFO]: Marcosam3000 joined the game
-[16:58:32] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
-[16:58:32] [Server thread/INFO]: Marcosam3000 left the game
-[16:58:48] [Server thread/INFO]: Villager cpj['Villager'/35227, l='ServerLevel[world]', x=911.01, y=69.00, z=703.41] died, message: 'Villager suffocated in a wall'
-[16:59:22] [Server thread/INFO]: Marcosam3000[/127.171.64.120:55369] logged in with entity id 40382 at (861.9424424922397, 14.0, 1486.0908328539144)
-[16:59:22] [Server thread/INFO]: Marcosam3000 joined the game
-[17:00:53] [Server thread/INFO]: Micropene lost connection: Disconnected
-[17:00:53] [Server thread/INFO]: Micropene left the game
-[17:03:11] [Server thread/INFO]: Micropene[/127.72.44.249:39075] logged in with entity id 41525 at (941.5172636854355, 71.0, 667.462095731343)
-[17:03:11] [Server thread/INFO]: Micropene joined the game
-[17:12:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=990, y=74, z=687} jh{x=1013, y=80, z=716}
-[17:12:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1013, y=80, z=716} jh{x=1013, y=79, z=716}
-[17:12:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1001, y=76, z=707} jh{x=1002, y=75, z=707}
-[17:12:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1001, y=76, z=707} jh{x=1002, y=75, z=707}
-[17:12:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1001, y=76, z=707} jh{x=1002, y=75, z=707}
-[17:12:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1001, y=76, z=707} jh{x=1002, y=75, z=707}
-[17:12:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1001, y=76, z=707} jh{x=1002, y=75, z=707}
-[17:12:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1001, y=76, z=707} jh{x=1002, y=75, z=707}
-[17:13:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=996, y=79, z=707} jh{x=995, y=75, z=707}
-[17:13:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=996, y=79, z=707} jh{x=995, y=75, z=707}
-[17:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1000, y=72, z=710} jh{x=1015, y=74, z=706}
-[17:15:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=995, y=73, z=710} jh{x=997, y=74, z=710}
-[17:15:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=995, y=73, z=710} jh{x=997, y=74, z=710}
-[17:15:18] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=995, y=73, z=710} jh{x=997, y=74, z=710}
-[17:39:11] [Server thread/INFO]: Micropene lost connection: Disconnected
-[17:39:11] [Server thread/INFO]: Micropene left the game
-[17:46:17] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
-[17:46:17] [Server thread/INFO]: Marcosam3000 left the game
-[17:47:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:06:35] [Server thread/INFO]: Micropene[/127.72.44.249:60065] logged in with entity id 53583 at (913.9835160434061, 69.5, 706.7935364131301)
-[18:06:35] [Server thread/INFO]: Micropene joined the game
-[18:33:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=926, y=70, z=619} jh{x=924, y=68, z=619}
-[18:33:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=926, y=70, z=619} jh{x=924, y=68, z=619}
-[18:33:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=926, y=70, z=619} jh{x=924, y=68, z=619}
-[18:33:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=926, y=70, z=619} jh{x=924, y=68, z=619}
-[18:33:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=926, y=70, z=619} jh{x=924, y=68, z=619}
-[18:33:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=916, y=70, z=620} jh{x=916, y=68, z=621}
-[18:39:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=924, y=69, z=626} jh{x=923, y=68, z=625}
-[19:14:44] [Server thread/INFO]: Micropene lost connection: Disconnected
-[19:14:44] [Server thread/INFO]: Micropene left the game
-[19:15:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:18:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:18:51] [ServerMain/INFO]: Loaded 1337 recipes
+[20:18:51] [ServerMain/INFO]: Loaded 1448 advancements
+[20:18:51] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:18:51] [Server thread/INFO]: Loading properties
+[20:18:51] [Server thread/INFO]: Default game type: SURVIVAL
+[20:18:51] [Server thread/INFO]: Generating keypair
+[20:18:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:18:51] [Server thread/INFO]: Using epoll channel type
+[20:18:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:18:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:18:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:18:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:18:51] [Server thread/INFO]: Preparing level "world"
+[20:18:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[20:18:54] [Server thread/INFO]: Time elapsed: 2588 ms
+[20:18:54] [Server thread/INFO]: Done (2.863s)! For help, type "help"
+[20:19:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:21:45] [Server thread/INFO]: Micropene[/127.72.44.249:55773] logged in with entity id 7 at (939.0737190090077, 74.0, 609.5839288577575)
+[20:21:45] [Server thread/INFO]: Micropene joined the game
