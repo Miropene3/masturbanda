@@ -100,3 +100,9 @@
 [17:47:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [18:06:35] [Server thread/INFO]: Micropene[/127.72.44.249:60065] logged in with entity id 53583 at (913.9835160434061, 69.5, 706.7935364131301)
 [18:06:35] [Server thread/INFO]: Micropene joined the game
+[18:33:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=926, y=70, z=619} jh{x=924, y=68, z=619}
+[18:33:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=926, y=70, z=619} jh{x=924, y=68, z=619}
+[18:33:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=926, y=70, z=619} jh{x=924, y=68, z=619}
+[18:33:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=926, y=70, z=619} jh{x=924, y=68, z=619}
+[18:33:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=926, y=70, z=619} jh{x=924, y=68, z=619}
+[18:33:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=916, y=70, z=620} jh{x=916, y=68, z=621}
