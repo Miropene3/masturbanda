@@ -141,3 +141,8 @@
 [01:54:29] [Server thread/INFO]: juanchopepito left the game
 [01:54:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1006, y=75, z=697} jh{x=1006, y=74, z=698}
 [01:56:27] [Server thread/INFO]: Villager cpj['Nitwit'/302131, l='ServerLevel[world]', x=928.70, y=72.00, z=711.55] died, message: 'Nitwit was slain by Micropene'
+[01:57:00] [Server thread/INFO]: Micropene lost connection: Disconnected
+[01:57:00] [Server thread/INFO]: Micropene left the game
+[01:57:40] [Server thread/INFO]: Micropene[/127.72.44.249:35725] logged in with entity id 338314 at (940.7384502792304, 71.0, 667.1461031528535)
+[01:57:40] [Server thread/INFO]: Micropene joined the game
+[02:01:00] [Server thread/INFO]: Micropene has made the advancement [Hot Stuff]

@@ -2581,9 +2581,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
+  "minecraft:recipes/transportation/rail": {
     "criteria": {
-      "has_minecart": "2024-12-04 01:51:05 +0000"
+      "has_the_recipe": "2024-12-04 01:50:05 +0000"
     },
     "done": true
   },
@@ -2596,18 +2596,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-04 01:50:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2024-12-04 01:51:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2024-12-04 01:51:05 +0000"
     },
     "done": true
   },
@@ -2659,12 +2647,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2024-12-04 01:51:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-04 01:50:27 +0000"
@@ -2677,21 +2659,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2024-12-04 01:50:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-04 01:50:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_the_recipe": "2024-12-04 01:50:05 +0000"
+      "has_redstone_torch": "2024-12-04 01:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-04 01:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-04 01:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-04 01:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-04 01:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-04 02:01:00 +0000"
     },
     "done": true
   },
