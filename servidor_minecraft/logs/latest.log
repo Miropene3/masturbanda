@@ -115,3 +115,15 @@
 [01:24:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=999, y=70, z=686} jh{x=998, y=72, z=686}
 [01:24:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=999, y=70, z=686} jh{x=998, y=72, z=686}
 [01:24:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=999, y=70, z=686} jh{x=998, y=72, z=686}
+[01:33:11] [Server thread/INFO]: Micropene lost connection: Disconnected
+[01:33:11] [Server thread/INFO]: Micropene left the game
+[01:34:23] [Server thread/INFO]: Villager cpj['Fisherman'/310567, l='ServerLevel[world]', x=-2712.69, y=70.41, z=-16191.48] died, message: 'Fisherman tried to swim in lava'
+[01:34:56] [Server thread/INFO]: Micropene[/127.72.44.249:57283] logged in with entity id 327999 at (940.9580795132965, 71.0, 667.5291658080467)
+[01:34:56] [Server thread/INFO]: Micropene joined the game
+[01:35:03] [Server thread/INFO]: Micropene lost connection: Disconnected
+[01:35:03] [Server thread/INFO]: Micropene left the game
+[01:35:06] [Server thread/INFO]: Villager cpj['Fisherman'/317779, l='ServerLevel[world]', x=-2712.32, y=70.61, z=-16191.27] died, message: 'Fisherman tried to swim in lava'
+[01:35:08] [Server thread/INFO]: Villager cpj['Villager'/321261, l='ServerLevel[world]', x=-2712.42, y=70.82, z=-16191.95] died, message: 'Villager tried to swim in lava'
+[01:37:38] [Server thread/INFO]: Micropene[/127.72.44.249:60289] logged in with entity id 329476 at (940.9580795132965, 71.0, 667.5291658080467)
+[01:37:38] [Server thread/INFO]: Micropene joined the game
+[01:39:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=988, y=75, z=686} jh{x=990, y=74, z=686}
