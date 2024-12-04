@@ -1,58 +1,37 @@
-[03:37:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:37:50] [ServerMain/INFO]: Loaded 1337 recipes
-[03:37:50] [ServerMain/INFO]: Loaded 1448 advancements
-[03:37:50] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[03:37:50] [Server thread/INFO]: Loading properties
-[03:37:50] [Server thread/INFO]: Default game type: SURVIVAL
-[03:37:50] [Server thread/INFO]: Generating keypair
-[03:37:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:37:50] [Server thread/INFO]: Using epoll channel type
-[03:37:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:37:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:37:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:37:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:37:50] [Server thread/INFO]: Preparing level "world"
-[03:37:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:37:56] [Server thread/INFO]: Time elapsed: 4808 ms
-[03:37:56] [Server thread/INFO]: Done (5.141s)! For help, type "help"
-[03:38:02] [Server thread/INFO]: juanchopepito[/127.167.192.149:47901] logged in with entity id 7 at (-292.623703007198, 66.41999998688698, -2055.611173647864)
-[03:38:02] [Server thread/INFO]: juanchopepito joined the game
-[03:38:10] [Server thread/INFO]: Micropene[/127.72.44.249:45963] logged in with entity id 166 at (976.946836161862, 75.24918707874468, 685.1541573768006)
-[03:38:10] [Server thread/INFO]: Micropene joined the game
-[03:38:13] [Server thread/INFO]: Marcosam3000[/127.171.64.120:33997] logged in with entity id 372 at (979.8394573938276, 74.0, 674.3733498223664)
-[03:38:13] [Server thread/INFO]: Marcosam3000 joined the game
-[03:38:19] [Server thread/INFO]: Mosqui[/127.109.151.165:60449] logged in with entity id 412 at (-2690.0979385131627, 89.0, -16083.335012587851)
-[03:38:19] [Server thread/INFO]: Mosqui joined the game
-[03:38:23] [Server thread/WARN]: UUID of added entity already exists: cic['Chicken'/679, l='ServerLevel[world]', x=778.49, y=113.00, z=832.02]
-[03:38:25] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[03:38:25] [Server thread/INFO]: juanchopepito left the game
-[03:46:48] [Server thread/INFO]: juanchopepito[/127.167.192.149:46957] logged in with entity id 4795 at (-303.30000001192093, 63.0, -2046.699999988079)
-[03:46:48] [Server thread/INFO]: juanchopepito joined the game
-[03:55:04] [Server thread/INFO]: Marcosam3000 has made the advancement [The Parrots and the Bats]
-[03:56:23] [Server thread/INFO]: Mosqui was doomed to fall by Phantom
-[03:59:09] [Server thread/INFO]: Mosqui fell from a high place
-[04:02:55] [Server thread/INFO]: Marcosam3000 lost connection: Disconnected
-[04:02:55] [Server thread/INFO]: Marcosam3000 left the game
-[04:09:19] [Server thread/INFO]: Micropene lost connection: Disconnected
-[04:09:19] [Server thread/INFO]: Micropene left the game
-[04:14:52] [Server thread/INFO]: Mosqui fell from a high place
-[04:21:49] [Server thread/INFO]: juanchopepito has made the advancement [Enchanter]
-[04:26:36] [Server thread/INFO]: You whisper to Mosqui: zzzz
-[04:41:27] [Server thread/INFO]: [Not Secure] <juanchopepito> me escuchas?
-[04:41:33] [Server thread/INFO]: [Not Secure] <juanchopepito> ahora?
-[04:41:40] [Server thread/INFO]: [Not Secure] <juanchopepito> te cojo?
-[04:41:49] [Server thread/INFO]: [Not Secure] <juanchopepito> te la saco?
-[04:42:01] [Server thread/INFO]: juanchopepito lost connection: Disconnected
-[04:42:01] [Server thread/INFO]: juanchopepito left the game
-[04:43:21] [Server thread/INFO]: Villager cpj['Fisherman'/17905, l='ServerLevel[world]', x=-2712.29, y=70.74, z=-16191.12] died, message: 'Fisherman tried to swim in lava'
-[04:58:04] [Server thread/INFO]: Villager cpj['Fisherman'/579, l='ServerLevel[world]', x=-2712.65, y=70.82, z=-16191.54] died, message: 'Fisherman tried to swim in lava'
+[14:16:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:16:41] [ServerMain/INFO]: Loaded 1337 recipes
+[14:16:41] [ServerMain/INFO]: Loaded 1448 advancements
+[14:16:42] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[14:16:42] [Server thread/INFO]: Loading properties
+[14:16:42] [Server thread/INFO]: Default game type: SURVIVAL
+[14:16:42] [Server thread/INFO]: Generating keypair
+[14:16:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:16:42] [Server thread/INFO]: Using epoll channel type
+[14:16:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:16:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:16:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:16:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:16:42] [Server thread/INFO]: Preparing level "world"
+[14:16:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:16:44] [Worker-Main-2/INFO]: Preparing spawn area: 30%
+[14:16:45] [Server thread/INFO]: Time elapsed: 2586 ms
+[14:16:45] [Server thread/INFO]: Done (2.830s)! For help, type "help"
+[14:17:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:18:53] [Server thread/INFO]: Marcosam3000[/127.171.64.120:57967] logged in with entity id 7 at (940.4914606193211, 72.35923560066871, 669.3669444293502)
+[14:18:53] [Server thread/INFO]: Marcosam3000 joined the game
+[14:22:10] [Server thread/INFO]: Micropene[/127.72.44.249:49753] logged in with entity id 1718 at (925.718147887104, 69.0, 703.8398193364744)
+[14:22:10] [Server thread/INFO]: Micropene joined the game
+[14:27:24] [Server thread/INFO]: Marcosam3000 lost connection: Timed out
+[14:27:24] [Server thread/INFO]: Marcosam3000 left the game
+[14:27:24] [Server thread/WARN]: handleDisconnection() called twice
+[14:35:04] [Server thread/INFO]: Marcosam3000[/127.171.64.120:45521] logged in with entity id 6613 at (-126.9634871927772, 64.47135676094425, 315.21646526299776)
+[14:35:04] [Server thread/INFO]: Marcosam3000 joined the game
+[14:35:34] [Server thread/INFO]: Marcosam3000 lost connection: Timed out
+[14:35:34] [Server thread/INFO]: Marcosam3000 left the game
+[14:35:51] [Server thread/INFO]: Marcosam3000[/127.171.64.120:36573] logged in with entity id 7009 at (-126.9634871927772, 62.0, 315.21646526299776)
+[14:35:51] [Server thread/INFO]: Marcosam3000 joined the game
