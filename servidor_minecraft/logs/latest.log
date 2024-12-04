@@ -107,3 +107,6 @@
 [18:33:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=926, y=70, z=619} jh{x=924, y=68, z=619}
 [18:33:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=916, y=70, z=620} jh{x=916, y=68, z=621}
 [18:39:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=924, y=69, z=626} jh{x=923, y=68, z=625}
+[19:14:44] [Server thread/INFO]: Micropene lost connection: Disconnected
+[19:14:44] [Server thread/INFO]: Micropene left the game
+[19:15:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
