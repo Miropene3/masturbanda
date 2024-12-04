@@ -2251,21 +2251,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2024-12-04 00:57:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-04 00:52:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2024-12-04 00:57:09 +0000"
     },
     "done": true
   },
@@ -2278,12 +2266,6 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-04 00:52:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2024-12-04 01:07:55 +0000"
     },
     "done": true
   },
@@ -2305,15 +2287,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-04 00:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-04 00:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-04 00:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-04 00:57:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_fence": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_planks": "2024-12-04 00:52:22 +0000"
+      "avoid_vibration": "2024-12-04 01:07:55 +0000"
     },
     "done": true
   },

@@ -30,3 +30,13 @@
 [20:32:47] [Server thread/INFO]: Mosqui left the game
 [21:08:49] [Server thread/INFO]: Micropene lost connection: Disconnected
 [21:08:49] [Server thread/INFO]: Micropene left the game
+[21:09:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:12:00] [Server thread/INFO]: Micropene[/127.72.44.249:52565] logged in with entity id 12847 at (914.8060278490334, 69.0, 722.3526165823614)
+[21:12:00] [Server thread/INFO]: Micropene joined the game
+[21:12:48] [Server thread/INFO]: Marcosam3000[/127.171.64.120:43845] logged in with entity id 13369 at (948.0823130045995, 69.0, 674.7100230891836)
+[21:12:48] [Server thread/INFO]: Marcosam3000 joined the game
+[21:15:30] [Server thread/INFO]: Micropene lost connection: Disconnected
+[21:15:30] [Server thread/INFO]: Micropene left the game
+[21:16:16] [Server thread/INFO]: LuKaG2[/127.74.57.41:53447] logged in with entity id 14177 at (851.748503056415, -43.0, 438.30000001192093)
+[21:16:16] [Server thread/INFO]: LuKaG2 joined the game
+[21:17:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=951, y=76, z=689} jh{x=951, y=74, z=689}
