@@ -2685,5 +2685,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-04 05:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-04 05:33:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
