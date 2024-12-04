@@ -40,3 +40,5 @@
 [21:16:16] [Server thread/INFO]: LuKaG2[/127.74.57.41:53447] logged in with entity id 14177 at (851.748503056415, -43.0, 438.30000001192093)
 [21:16:16] [Server thread/INFO]: LuKaG2 joined the game
 [21:17:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=951, y=76, z=689} jh{x=951, y=74, z=689}
+[21:22:49] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
+[21:22:49] [Server thread/INFO]: LuKaG2 left the game
