@@ -416,6 +416,7 @@
       "bread": "2024-12-03 02:55:42 +0000",
       "cooked_chicken": "2024-12-03 17:26:53 +0000",
       "cooked_mutton": "2024-12-03 02:58:08 +0000",
+      "potato": "2024-12-04 02:19:39 +0000",
       "cooked_beef": "2024-12-03 03:09:10 +0000",
       "baked_potato": "2024-12-03 18:46:44 +0000",
       "carrot": "2024-12-03 16:50:18 +0000"
@@ -2698,6 +2699,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-04 02:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-04 02:24:22 +0000"
     },
     "done": true
   },

@@ -146,3 +146,13 @@
 [01:57:40] [Server thread/INFO]: Micropene[/127.72.44.249:35725] logged in with entity id 338314 at (940.7384502792304, 71.0, 667.1461031528535)
 [01:57:40] [Server thread/INFO]: Micropene joined the game
 [02:01:00] [Server thread/INFO]: Micropene has made the advancement [Hot Stuff]
+[02:08:50] [Server thread/INFO]: juanchopepito[/127.167.192.149:38939] logged in with entity id 341332 at (-2682.1839595685037, -20.0, -16162.341217316081)
+[02:08:50] [Server thread/INFO]: juanchopepito joined the game
+[02:14:35] [Server thread/INFO]: Villager cpj['Fisherman'/341346, l='ServerLevel[world]', x=-2712.32, y=69.44, z=-16190.71] died, message: 'Fisherman tried to swim in lava'
+[02:16:42] [Server thread/INFO]: Villager cpj['Fisherman'/341413, l='ServerLevel[world]', x=-2712.60, y=70.35, z=-16191.43] died, message: 'Fisherman tried to swim in lava'
+[02:18:53] [Server thread/INFO]: Mosqui[/127.109.151.165:33577] logged in with entity id 346052 at (-2674.6503642932717, -20.0, -16157.729398800055)
+[02:18:53] [Server thread/INFO]: Mosqui joined the game
+[02:21:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=988, y=75, z=689} jh{x=988, y=75, z=691}
+[02:24:22] [Server thread/INFO]: Micropene has made the advancement [Cover Me with Diamonds]
+[02:27:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=984, y=79, z=680} jh{x=979, y=78, z=677}
+[02:27:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=984, y=79, z=680} jh{x=979, y=78, z=677}

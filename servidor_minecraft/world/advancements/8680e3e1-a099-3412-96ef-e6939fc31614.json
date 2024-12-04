@@ -406,10 +406,12 @@
       "cooked_chicken": "2024-12-04 01:19:11 +0000",
       "rotten_flesh": "2024-12-03 03:15:38 +0000",
       "cooked_mutton": "2024-12-03 22:15:00 +0000",
+      "potato": "2024-12-04 02:24:17 +0000",
       "chorus_fruit": "2024-12-03 20:50:51 +0000",
       "cooked_beef": "2024-12-03 22:21:22 +0000",
       "baked_potato": "2024-12-03 03:12:49 +0000",
-      "pumpkin_pie": "2024-12-03 04:54:39 +0000"
+      "pumpkin_pie": "2024-12-03 04:54:39 +0000",
+      "golden_carrot": "2024-12-04 02:21:38 +0000"
     },
     "done": false
   },
@@ -2974,33 +2976,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+  "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
-      "has_waxed_oxidized_copper": "2024-12-04 01:45:01 +0000"
+      "has_brick": "2024-12-04 01:16:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+  "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
-      "has_waxed_oxidized_cut_copper": "2024-12-04 01:44:59 +0000"
+      "has_brick": "2024-12-04 01:16:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+  "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
-      "has_waxed_oxidized_copper": "2024-12-04 01:45:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-04 01:31:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper": "2024-12-04 01:44:59 +0000"
+      "has_brick": "2024-12-04 01:16:17 +0000"
     },
     "done": true
   },
@@ -3010,21 +3000,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+  "minecraft:recipes/combat/mace": {
     "criteria": {
-      "has_waxed_oxidized_cut_copper": "2024-12-04 01:44:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2024-12-04 01:16:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper": "2024-12-04 01:44:59 +0000"
+      "has_breeze_rod": "2024-12-04 01:19:33 +0000"
     },
     "done": true
   },
@@ -3034,9 +3012,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-04 01:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-04 01:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-04 01:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2024-12-04 01:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-04 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-04 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-04 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-04 01:44:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2024-12-04 01:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-04 01:45:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-04 01:45:01 +0000"
     },
     "done": true
   },
@@ -3049,30 +3087,6 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
     "criteria": {
       "has_waxed_oxidized_copper": "2024-12-04 01:45:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-04 01:22:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2024-12-04 01:16:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2024-12-04 01:22:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/mace": {
-    "criteria": {
-      "has_breeze_rod": "2024-12-04 01:19:33 +0000"
     },
     "done": true
   },
@@ -3094,21 +3108,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
-    "criteria": {
-      "has_bolt_armor_trim_smithing_template": "2024-12-04 01:31:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2024-12-04 01:45:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2024-12-04 01:16:17 +0000"
     },
     "done": true
   },
