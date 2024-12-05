@@ -30,3 +30,8 @@
 [02:38:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [03:00:24] [Server thread/INFO]: Micropene[/127.72.44.249:52935] logged in with entity id 3952 at (889.4317268059077, 64.0, 650.1453534527889)
 [03:00:24] [Server thread/INFO]: Micropene joined the game
+[03:32:56] [Server thread/INFO]: Micropene hit the ground too hard
+[03:36:29] [Server thread/INFO]: Micropene drowned
+[03:36:44] [Server thread/INFO]: Micropene lost connection: Disconnected
+[03:36:44] [Server thread/INFO]: Micropene left the game
+[03:37:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
