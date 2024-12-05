@@ -1,3 +1,24 @@
-[00:22:02] [Server thread/INFO]: Micropene lost connection: Disconnected
-[00:22:02] [Server thread/INFO]: Micropene left the game
-[00:23:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:47:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:47:58] [ServerMain/INFO]: Loaded 1337 recipes
+[00:47:58] [ServerMain/INFO]: Loaded 1448 advancements
+[00:47:58] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:47:58] [Server thread/INFO]: Loading properties
+[00:47:58] [Server thread/INFO]: Default game type: SURVIVAL
+[00:47:58] [Server thread/INFO]: Generating keypair
+[00:47:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:47:58] [Server thread/INFO]: Using epoll channel type
+[00:47:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:47:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:47:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:47:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:47:58] [Server thread/INFO]: Preparing level "world"
+[00:47:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:48:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:48:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:48:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:48:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:48:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:48:01] [Server thread/INFO]: Time elapsed: 2446 ms
+[00:48:01] [Server thread/INFO]: Done (2.748s)! For help, type "help"
+[00:48:12] [Server thread/INFO]: Micropene[/127.72.44.249:38657] logged in with entity id 7 at (926.6535918298774, 69.0, 626.7089299951372)
+[00:48:12] [Server thread/INFO]: Micropene joined the game
