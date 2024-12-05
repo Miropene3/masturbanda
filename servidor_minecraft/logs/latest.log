@@ -25,3 +25,6 @@
 [02:21:50] [Server thread/INFO]: Done (4.320s)! For help, type "help"
 [02:22:22] [Server thread/INFO]: Micropene[/127.72.44.249:44283] logged in with entity id 7 at (844.9537006520786, 62.278950474757764, 694.3382948369559)
 [02:22:22] [Server thread/INFO]: Micropene joined the game
+[02:37:11] [Server thread/INFO]: Micropene lost connection: Disconnected
+[02:37:11] [Server thread/INFO]: Micropene left the game
+[02:38:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
