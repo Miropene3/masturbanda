@@ -1,41 +1,27 @@
-[00:47:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:47:58] [ServerMain/INFO]: Loaded 1337 recipes
-[00:47:58] [ServerMain/INFO]: Loaded 1448 advancements
-[00:47:58] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:47:58] [Server thread/INFO]: Loading properties
-[00:47:58] [Server thread/INFO]: Default game type: SURVIVAL
-[00:47:58] [Server thread/INFO]: Generating keypair
-[00:47:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:47:58] [Server thread/INFO]: Using epoll channel type
-[00:47:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:47:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:47:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:47:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:47:58] [Server thread/INFO]: Preparing level "world"
-[00:47:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:48:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:48:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:48:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:48:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:48:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:48:01] [Server thread/INFO]: Time elapsed: 2446 ms
-[00:48:01] [Server thread/INFO]: Done (2.748s)! For help, type "help"
-[00:48:12] [Server thread/INFO]: Micropene[/127.72.44.249:38657] logged in with entity id 7 at (926.6535918298774, 69.0, 626.7089299951372)
-[00:48:12] [Server thread/INFO]: Micropene joined the game
-[00:58:10] [Server thread/INFO]: Micropene lost connection: Disconnected
-[00:58:10] [Server thread/INFO]: Micropene left the game
-[00:58:45] [Server thread/INFO]: Micropene[/127.72.44.249:41797] logged in with entity id 3229 at (935.0548846677907, 63.0, 655.884061497266)
-[00:58:45] [Server thread/INFO]: Micropene joined the game
-[01:02:19] [Server thread/WARN]: Micropene moved too quickly! 1.4929743514643405,-0.6709083839322858,-9.918115291391587
-[01:02:38] [Server thread/WARN]: Micropene moved too quickly! -1.8176748376874912,3.0,-9.458106010648635
-[01:03:14] [Server thread/WARN]: Micropene moved too quickly! -6.207037434965628,0.0,-7.995460752124018
-[01:04:09] [Server thread/WARN]: Micropene moved too quickly! -5.863975167804597,-2.130906499714527,8.061339487248006
-[01:04:13] [Server thread/WARN]: Micropene moved too quickly! -8.98576064876761,1.1661092609382138,4.626941551003824
-[01:04:24] [Server thread/WARN]: Micropene moved too quickly! -7.618102977417379,1.044812420399012,6.78228909786003
-[01:04:58] [Server thread/INFO]: Micropene lost connection: Disconnected
-[01:04:58] [Server thread/INFO]: Micropene left the game
-[01:05:04] [Server thread/INFO]: Micropene[/127.72.44.249:59593] logged in with entity id 4912 at (844.9537006520786, 62.43968789752789, 694.3382948369559)
-[01:05:04] [Server thread/INFO]: Micropene joined the game
-[01:05:30] [Server thread/INFO]: Micropene lost connection: Disconnected
-[01:05:30] [Server thread/INFO]: Micropene left the game
-[01:06:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:21:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:21:45] [ServerMain/INFO]: Loaded 1337 recipes
+[02:21:45] [ServerMain/INFO]: Loaded 1448 advancements
+[02:21:45] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:21:45] [Server thread/INFO]: Loading properties
+[02:21:45] [Server thread/INFO]: Default game type: SURVIVAL
+[02:21:45] [Server thread/INFO]: Generating keypair
+[02:21:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:21:45] [Server thread/INFO]: Using epoll channel type
+[02:21:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:21:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:21:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:21:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:21:46] [Server thread/INFO]: Preparing level "world"
+[02:21:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:21:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:21:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:21:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:21:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:21:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:21:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:21:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:21:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:21:50] [Server thread/INFO]: Time elapsed: 3953 ms
+[02:21:50] [Server thread/INFO]: Done (4.320s)! For help, type "help"
+[02:22:22] [Server thread/INFO]: Micropene[/127.72.44.249:44283] logged in with entity id 7 at (844.9537006520786, 62.278950474757764, 694.3382948369559)
+[02:22:22] [Server thread/INFO]: Micropene joined the game
