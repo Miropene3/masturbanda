@@ -1,44 +1,32 @@
-[20:18:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:18:51] [ServerMain/INFO]: Loaded 1337 recipes
-[20:18:51] [ServerMain/INFO]: Loaded 1448 advancements
-[20:18:51] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[20:18:51] [Server thread/INFO]: Loading properties
-[20:18:51] [Server thread/INFO]: Default game type: SURVIVAL
-[20:18:51] [Server thread/INFO]: Generating keypair
-[20:18:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:18:51] [Server thread/INFO]: Using epoll channel type
-[20:18:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:18:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:18:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:18:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:18:51] [Server thread/INFO]: Preparing level "world"
-[20:18:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:18:54] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[20:18:54] [Server thread/INFO]: Time elapsed: 2588 ms
-[20:18:54] [Server thread/INFO]: Done (2.863s)! For help, type "help"
-[20:19:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:21:45] [Server thread/INFO]: Micropene[/127.72.44.249:55773] logged in with entity id 7 at (939.0737190090077, 74.0, 609.5839288577575)
-[20:21:45] [Server thread/INFO]: Micropene joined the game
-[20:31:05] [Server thread/INFO]: Mosqui[/127.109.151.165:58915] logged in with entity id 2688 at (-2693.2385762545055, 71.0, -16218.645527616478)
-[20:31:05] [Server thread/INFO]: Mosqui joined the game
-[20:32:47] [Server thread/INFO]: Mosqui lost connection: Disconnected
-[20:32:47] [Server thread/INFO]: Mosqui left the game
-[21:08:49] [Server thread/INFO]: Micropene lost connection: Disconnected
-[21:08:49] [Server thread/INFO]: Micropene left the game
-[21:09:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:12:00] [Server thread/INFO]: Micropene[/127.72.44.249:52565] logged in with entity id 12847 at (914.8060278490334, 69.0, 722.3526165823614)
-[21:12:00] [Server thread/INFO]: Micropene joined the game
-[21:12:48] [Server thread/INFO]: Marcosam3000[/127.171.64.120:43845] logged in with entity id 13369 at (948.0823130045995, 69.0, 674.7100230891836)
-[21:12:48] [Server thread/INFO]: Marcosam3000 joined the game
-[21:15:30] [Server thread/INFO]: Micropene lost connection: Disconnected
-[21:15:30] [Server thread/INFO]: Micropene left the game
-[21:16:16] [Server thread/INFO]: LuKaG2[/127.74.57.41:53447] logged in with entity id 14177 at (851.748503056415, -43.0, 438.30000001192093)
-[21:16:16] [Server thread/INFO]: LuKaG2 joined the game
-[21:17:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=951, y=76, z=689} jh{x=951, y=74, z=689}
-[21:22:49] [Server thread/INFO]: LuKaG2 lost connection: Disconnected
-[21:22:49] [Server thread/INFO]: LuKaG2 left the game
+[23:55:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:55:23] [ServerMain/INFO]: Loaded 1337 recipes
+[23:55:23] [ServerMain/INFO]: Loaded 1448 advancements
+[23:55:23] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:55:23] [Server thread/INFO]: Loading properties
+[23:55:23] [Server thread/INFO]: Default game type: SURVIVAL
+[23:55:23] [Server thread/INFO]: Generating keypair
+[23:55:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:55:23] [Server thread/INFO]: Using epoll channel type
+[23:55:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:55:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:55:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:55:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:55:23] [Server thread/INFO]: Preparing level "world"
+[23:55:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:55:29] [Worker-Main-2/INFO]: Preparing spawn area: 28%
+[23:55:29] [Server thread/INFO]: Time elapsed: 5892 ms
+[23:55:29] [Server thread/INFO]: Done (6.253s)! For help, type "help"
+[23:56:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:57:39] [Server thread/INFO]: Micropene[/127.72.44.249:55825] logged in with entity id 7 at (914.7020626389162, 69.0, 723.203431147148)
+[23:57:39] [Server thread/INFO]: Micropene joined the game
