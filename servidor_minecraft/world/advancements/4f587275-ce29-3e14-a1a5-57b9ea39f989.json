@@ -17,8 +17,10 @@
       "minecraft:lush_caves": "2024-12-03 19:19:50 +0000",
       "minecraft:dripstone_caves": "2024-12-03 03:10:36 +0000",
       "minecraft:snowy_taiga": "2024-12-03 02:40:00 +0000",
+      "minecraft:ice_spikes": "2024-12-05 15:45:12 +0000",
       "minecraft:frozen_river": "2024-12-03 02:40:28 +0000",
       "minecraft:ocean": "2024-12-03 19:16:49 +0000",
+      "minecraft:cherry_grove": "2024-12-05 15:45:34 +0000",
       "minecraft:meadow": "2024-12-03 16:56:53 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-03 19:13:37 +0000",
       "minecraft:plains": "2024-12-03 02:53:10 +0000"
@@ -415,6 +417,7 @@
       "apple": "2024-12-03 02:44:18 +0000",
       "bread": "2024-12-03 02:55:42 +0000",
       "cooked_chicken": "2024-12-03 17:26:53 +0000",
+      "cookie": "2024-12-05 15:39:12 +0000",
       "cooked_mutton": "2024-12-03 02:58:08 +0000",
       "potato": "2024-12-04 02:19:39 +0000",
       "cooked_beef": "2024-12-03 03:09:10 +0000",
@@ -2947,6 +2950,18 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-05 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-05 15:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 15:47:48 +0000"
     },
     "done": true
   },
