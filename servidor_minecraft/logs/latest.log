@@ -22,3 +22,20 @@
 [00:48:01] [Server thread/INFO]: Done (2.748s)! For help, type "help"
 [00:48:12] [Server thread/INFO]: Micropene[/127.72.44.249:38657] logged in with entity id 7 at (926.6535918298774, 69.0, 626.7089299951372)
 [00:48:12] [Server thread/INFO]: Micropene joined the game
+[00:58:10] [Server thread/INFO]: Micropene lost connection: Disconnected
+[00:58:10] [Server thread/INFO]: Micropene left the game
+[00:58:45] [Server thread/INFO]: Micropene[/127.72.44.249:41797] logged in with entity id 3229 at (935.0548846677907, 63.0, 655.884061497266)
+[00:58:45] [Server thread/INFO]: Micropene joined the game
+[01:02:19] [Server thread/WARN]: Micropene moved too quickly! 1.4929743514643405,-0.6709083839322858,-9.918115291391587
+[01:02:38] [Server thread/WARN]: Micropene moved too quickly! -1.8176748376874912,3.0,-9.458106010648635
+[01:03:14] [Server thread/WARN]: Micropene moved too quickly! -6.207037434965628,0.0,-7.995460752124018
+[01:04:09] [Server thread/WARN]: Micropene moved too quickly! -5.863975167804597,-2.130906499714527,8.061339487248006
+[01:04:13] [Server thread/WARN]: Micropene moved too quickly! -8.98576064876761,1.1661092609382138,4.626941551003824
+[01:04:24] [Server thread/WARN]: Micropene moved too quickly! -7.618102977417379,1.044812420399012,6.78228909786003
+[01:04:58] [Server thread/INFO]: Micropene lost connection: Disconnected
+[01:04:58] [Server thread/INFO]: Micropene left the game
+[01:05:04] [Server thread/INFO]: Micropene[/127.72.44.249:59593] logged in with entity id 4912 at (844.9537006520786, 62.43968789752789, 694.3382948369559)
+[01:05:04] [Server thread/INFO]: Micropene joined the game
+[01:05:30] [Server thread/INFO]: Micropene lost connection: Disconnected
+[01:05:30] [Server thread/INFO]: Micropene left the game
+[01:06:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
